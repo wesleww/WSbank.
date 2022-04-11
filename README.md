@@ -1,1 +1,1 @@
-# wWSbank
+# WSbank
